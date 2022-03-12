@@ -1,6 +1,6 @@
 import os 
 
-from utils import get_arch, get_version
+from src.utils import get_arch, get_version
 
 dist_file = "src/dist"
 
